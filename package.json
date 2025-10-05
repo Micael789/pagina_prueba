@@ -1,0 +1,29 @@
+{
+  "name": "mobilet-status-system",
+  "version": "1.0.0",
+  "description": "Sistema web para el control y registro de estatus de unidades móviles",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "dev": "python -m http.server 8000",
+    "serve": "npx serve ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tu-usuario/mobilet-status-system.git"
+  },
+  "keywords": [
+    "mobilet",
+    "status",
+    "tracking",
+    "web-app",
+    "tailwind",
+    "javascript"
+  ],
+  "author": "Tu Nombre",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tu-usuario/mobilet-status-system/issues"
+  },
+  "homepage": "https://github.com/tu-usuario/mobilet-status-system#readme"
+}
